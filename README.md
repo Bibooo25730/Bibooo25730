@@ -10,7 +10,5 @@
        🐷🐷🐷🐷    🐷🐷🐷🐷                    ✨✨✨✨                   🐷🐷🐷🐷    🐷🐷🐷🐷
             🐷🐷    🐷🐷                                                           🐷🐷    🐷🐷 </pre>
 
-                
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alin25730&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                 
 博客 http://bibooo.top/
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alin25730
-&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
