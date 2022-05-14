@@ -1,8 +1,5 @@
 ### 👍 Hi！！！
 ---
-🎗前端开发者
-- 爱好🎬觀看影視，💻編程，🎮遊戲
-- 喜欢分享<br/>
 
 ## Statistics
  Stats | language
