@@ -8,7 +8,8 @@
 
 ![Bibooo25730 github activity graph](https://activity-graph.herokuapp.com/graph?username=Bibooo25730&theme=react-dark)
 
-爱好:🎬观看影视、🏀篮球、🚴自行车、💻编程、🎮游戏
+爱好:🎬观看影视、🚴自行车、💻编程、🎮游戏
 
 外面的世界好大,期待遇到各种各样的人结识更多朋友。
+都说程序员越工作工资越高，我怎么越工作工资咋越低了
 [Blog](https://bibooo.top)
