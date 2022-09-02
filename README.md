@@ -1,15 +1,30 @@
-### 👍 Hi！！！
----
+### Hi there 👋, this is Bibooo
 
-## Statistics
- Stats | language
---- | --- 
-[![Bibooo25730 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Bibooo25730)]() | ![DanBai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibooo25730&layout=compact&hide_border=true&langs_count=10)
+### Why  Bibooo?
+- Bibo的身法简直就是一种艺术。
+- 一种站在世界巅峰环视全球的感觉！简单却又华丽！
+- 所有的溢美之词都不能表达我的崇拜！
 
-![Bibooo25730 github activity graph](https://activity-graph.herokuapp.com/graph?username=Bibooo25730&theme=react-dark)
 
-爱好:🎬观看影视、🚴自行车、💻编程、🎮游戏
+### Hobbies
+ - 发呆
+ - 睡觉
+ - 发呆发着发着睡着了
 
-外面的世界好大,期待遇到各种各样的人结识更多朋友。
-都说程序员越工作工资越高，我怎么越工作工资咋越低了
-[Blog](https://bibooo.top)
+### My Github
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibooo25730&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=Bibooo25730&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
+<!--
+
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
