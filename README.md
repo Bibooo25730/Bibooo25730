@@ -14,7 +14,7 @@
 ### My Github
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibooo25730&layout=compact&langs_count=8&theme=calm&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/> <img src="https://github-readme-stats.vercel.app/api?username=Bibooo25730&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="185px">
 <!--
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bibooo25730)](https://github.com/anuraghazra/github-readme-stats)
 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
